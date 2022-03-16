@@ -17,7 +17,7 @@ Your task is to create a Futurama profile directory API. Each profile contains a
 
 Organize your fetch request & model method calls in the `ProfileService.js`.
 
-### Acceptance Criteria
+### Acceptance Criteriaa
 
 - The `Profile.insert` method can insert a row into the profiles table and return that row as a `new Profile` object
 - The `ProfileService.create` method:
